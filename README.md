@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-My name is Lourenço and I'm currently studying @ Instituto Superior Técnico in Lisbon, Portugal.
+My name is Lourenço and I'm from the Azores :evergreen_tree:. Currently studying @ Instituto Superior Técnico in Lisbon, Portugal.
 
 Currently I...
 

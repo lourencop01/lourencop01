@@ -14,6 +14,7 @@ At the moment I...
 
 :pencil2: |  Do tutoring
 
+On my free time I also love to create, design, and do video editing! 
 ***
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourencop01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

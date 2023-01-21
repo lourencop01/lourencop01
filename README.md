@@ -11,7 +11,8 @@ In my free time I love to create, wether it is by doing some graphic design, vid
 Please feel free to take a look around, check out some of my projects, and let's connect! I'm always open for a chat.
 ***
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourencop01&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lourencop01&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[comment]: <> ([![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lourencop01&show_icons=true&theme=dark#gh-dark-mode-only)])
+[comment]: <> ((https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))
+[comment]: <> ([![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lourencop01&show_icons=true&theme=default#gh-light-mode) [comment]: <> (only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only))
 
 
